@@ -10,8 +10,8 @@ A web application that allows users to upload PDF documents (receipts, contracts
   - Document type (receipt, contract, statement)
   - Document ID
   - Date
-  - Bank name
-  - Client name
+  - first entity name
+  - second entity name
   - Account number
   - Amount value and currency
 - Post-process OCR results with LLM API for improved accuracy
