@@ -10,8 +10,8 @@ A Django web application for processing PDF documents using AI technologies to e
   - Document type (receipt, contract, statement)
   - Document ID
   - Date
-  - Bank name
-  - Client name
+  - first entity name
+  - second entity name
   - Account number
   - Amount and currency
 - View processed documents and extracted information
