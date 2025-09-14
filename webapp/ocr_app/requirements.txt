@@ -1,0 +1,2 @@
+# Add the requests library for ChatPDF API integration
+requests>=2.31.0
